@@ -9,8 +9,8 @@ SMOTE: como había mucha gente que se quedaba y poca que se iba, usé este méto
 
 Gráficos: armé un mapa de calor para ver cómo se relacionan las cosas y usé boxplots para ver el tiempo que duran los clientes y el dinero que gastan.
 
-Resultados de la IA
-probé con la Regresión Logística y Random Forest y este último fue el que mejor detectó a los que se van. Lo que más influye para que la gente deje la empresa es:
+Resultados de la IA.
+Probé con la Regresión Logística y Random Forest y este último fue el que mejor detectó a los que se van. Lo que más influye para que la gente deje la empresa es:
 
 El contrato: Con diferencia, las personas que mas dejan el servicio son los que pagan mensualmente. 
 
